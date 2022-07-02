@@ -32,7 +32,6 @@ name=PROJECT_NAME,
 version=VERSION,
 author=AUTHOR,
 description=DESCRIPTION,
-description=DESCRIPTION,
 packages=find_packages(), 
 install_requires=get_requirements_list()
 )
