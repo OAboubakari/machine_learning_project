@@ -105,3 +105,8 @@ Install ipykernel
 ```
 pip install ipykernel
 ```
+
+```
+Data Drift : 
+When your dataset statistics gets change we call it as data drift
+```

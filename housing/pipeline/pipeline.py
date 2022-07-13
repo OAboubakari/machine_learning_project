@@ -5,6 +5,8 @@ from housing.exception import HousingException
 from housing.component.data_ingestion import DataIngestion
 from housing.entity.artifact_entity import DataIngestionArtifact
 from housing.entity.config_entity import DataIngestionConfig
+from housing.component.data_ingestion import DataIngestion
+from housing.component.data_validation import dataValidation
 
 import os,sys
 
