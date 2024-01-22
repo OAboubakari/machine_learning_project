@@ -9,4 +9,10 @@ This is a machine learning project for Housing price prediction
 4. [Git Cli](https://www.git-scm.com/downloads)
 
 
+Creating conda environnement
+```
+conda create -p venv python==3.7 -y
+```
+
+
 
