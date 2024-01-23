@@ -17,6 +17,9 @@ Activation of our  virtual environnement
 ```
 conda activate venv/
 ```
-
+Installing requirements file 
+```
+pip install -r requirements.txt
+```
 
 
