@@ -22,4 +22,11 @@ Installing requirements file
 pip install -r requirements.txt
 ```
 
+>Note :To ignore file or folder from git we add the file/folder in .gitignore's folder
+
+To check git status 
+```
+git status
+```
+
 
